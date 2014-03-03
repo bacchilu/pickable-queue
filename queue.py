@@ -7,7 +7,7 @@ pickeble_queue.py
 Estendo la coda in modo fa poterne serializzare sotto forma di pickle il
 contenuto.
 
-Luca Bacchi <luca@ovus.it> - http://www.ehiweb.it
+Luca Bacchi <bacchilu@gmail.com> - http://www.lucabacchi.it
 """
 
 import pickle
